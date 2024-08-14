@@ -1,0 +1,10 @@
+Datum	Pruefer	Station	Silo	Gramm	Notizen
+02.12.2023 13:10	mp	KF_Station_09_Stall3	Silo_4	1043	test
+02.12.2023 13:11	mp	KF_Station_10_Stall3	Silo_3	1024	NA
+02.12.2023 13:11	mp	KF_Station_11_Stall4	Silo_3	941	Kalibrierung und Nachkontrolle erforderlich!	test
+02.12.2023 13:11	mp	KF_Station_12_Stall4	Silo_3	1013	NA
+02.12.2023 13:12	mp	KF_Station_11_Stall4	Silo_3	1033	NA
+02.12.2023 13:36	mp	KF_Station_02_Stall1	Silo_1	1022	test
+02.12.2023 17:14	mp	KF_Station_09_Stall3	Silo_4	963	test
+02.12.2023 17:14	mp	KF_Station_12_Stall4	Silo_2	1023	test
+02.12.2023 17:14	mp	KF_Station_11_Stall4	Silo_1	999	test1

@@ -1,0 +1,13 @@
+Datum	Pruefer	Station	Silo	Gramm	Notizen
+04.04.2024 10:30	mc	KF_Station_11_Stall4	Silo_5	942	Kalibrierung und Nachkontrolle erforderlich!
+04.04.2024 10:31	mc	KF_Station_12_Stall4	Silo_5	1045	NA
+04.04.2024 10:50	mc	KF_Station_10_Stall3	Silo_6	975	NA
+04.04.2024 10:51	mc	KF_Station_09_Stall3	Silo_6	948	Kalibrierung und Nachkontrolle erforderlich!
+04.04.2024 11:10	mc 	KF_Station_12_Stall4	Silo_7	982	NA
+04.04.2024 11:10	mc 	KF_Station_11_Stall4	Silo_7	1008	NA
+04.04.2024 11:31	mc	KF_Station_10_Stall3	Silo_8	1010	NA
+04.04.2024 11:32	mc	KF_Station_09_Stall3	Silo_8	994	NA
+04.04.2024 11:48	mc	KF_Station_11_Stall4	Silo_5	1040	NA
+04.04.2024 11:59	mc	KF_Station_09_Stall3	Silo_6	922	Kalibrierung und Nachkontrolle erforderlich!
+04.04.2024 12:12	mc	KF_Station_09_Stall3	Silo_6	1109	Kalibrierung und Nachkontrolle erforderlich!
+04.04.2024 16:07	mp	KF_Station_09_Stall3	Silo_6	976	NA

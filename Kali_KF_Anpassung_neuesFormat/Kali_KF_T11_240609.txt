@@ -1,0 +1,9 @@
+Datum	Pruefer	Station	Silo	Gramm	Notizen
+09.06.2024 13:17	mp	KF_Station_12_Stall4	Silo_5	982	NA
+09.06.2024 13:17	mp	KF_Station_11_Stall4	Silo_5	1013	NA
+09.06.2024 13:18	mp	KF_Station_09_Stall3	Silo_5	999	NA
+09.06.2024 13:18	mp	KF_Station_10_Stall3	Silo_5	1004	NA
+09.06.2024 13:47	mp	KF_Station_11_Stall4	Silo_7	1024	NA
+09.06.2024 13:48	mp	KF_Station_12_Stall4	Silo_7	1050	NA
+09.06.2024 13:49	mp	KF_Station_09_Stall3	Silo_7	1020	NA
+09.06.2024 13:49	mp	KF_Station_10_Stall3	Silo_7	1041	NA

@@ -1,0 +1,6 @@
+Datum	Pruefer	Station	Silo	Gramm	Notizen
+27.01.2024 11:03	MP	KF_Station_12_Stall4	Silo_1	917	Kalibrierung und Nachkontrolle erforderlich!
+27.01.2024 11:03	MP	KF_Station_11_Stall4	Silo_1	947	Kalibrierung und Nachkontrolle erforderlich!
+27.01.2024 11:04	MP	KF_Station_10_Stall3	Silo_1	963	NA
+27.01.2024 11:05	MP	KF_Station_09_Stall3	Silo_1	980	NA
+27.01.2024 11:38	MP	KF_Station_01_Stall1	Silo_1	9999	Kalibrierung und Nachkontrolle erforderlich!	Kein weiteres Kalibrieren möglich, da Verbindung zum Prozesscomputer verloren 

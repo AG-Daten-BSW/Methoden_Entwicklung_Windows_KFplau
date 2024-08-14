@@ -1,0 +1,6 @@
+Datum	Pruefer	Transponder	Stall	Station	Silo	Gramm	Notizen
+04.10.2023 09:57	mp	KF_Station_10_Stall3	Silo2	1078	Kalibrierung und Nachkontrolle erforderlich!	na
+Datum	Pruefer	Transponder	Stall	Station	Silo	Gramm	Notizen
+04.10.2023 09:58	mp	KF_Station_10_Stall3	Silo3	1078	Kalibrierung und Nachkontrolle erforderlich!	Kalibrierung und Nachkontrolle erforderlich!
+Datum	Pruefer	Transponder	Stall	Station	Silo	Gramm	Notizen
+04.10.2023 13:25	mp	KF_Station_10_Stall3	Silo3	1006	na
