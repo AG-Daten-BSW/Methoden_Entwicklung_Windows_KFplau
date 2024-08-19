@@ -1,0 +1,20 @@
+let
+    // Startdatum definieren
+    StartDate = #date(2021, 1, 1),  // Ersetze dies mit deinem gewünschten Startdatum
+
+    // Aktuelles Datum abrufen
+    CurrentDate = Date.From(DateTime.LocalNow()),
+
+    // Dauer (Anzahl der Tage) berechnen
+    NumberOfDays = Duration.Days(CurrentDate - StartDate),
+
+    // Liste der Datumswerte erstellen
+    DateList = List.Dates(StartDate, NumberOfDays + 1, #duration(1, 0, 0, 0)),
+    
+    // Liste in eine Tabelle umwandeln
+    DateTable = Table.FromList(DateList, Splitter.SplitByNothing(), {"Datum"}),
+    #"Umbenannte Spalten" = Table.RenameColumns(DateTable,{{"Datum", "dynamischesDate"}}),
+    #"Geänderter Typ" = Table.TransformColumnTypes(#"Umbenannte Spalten",{{"dynamischesDate", type date}})
+
+in
+    #"Geänderter Typ"
