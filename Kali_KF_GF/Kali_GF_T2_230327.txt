@@ -1,0 +1,2 @@
+Datum	Pruefer	Station	Transponder	Stall	Silo	CUP1	CUP2	CUP3	CUP4	CUP5	CUP6	CUP7	CUP8	Notizen
+27.03.2023 16:12	fc	GF_105	13392615	Stall_3	Silo_4	36.4	36.2	38.6	35.0	34.0	37.6	36.6	35.0	Greenfeed 135 defekt, daher keine Kalibrierung heute
